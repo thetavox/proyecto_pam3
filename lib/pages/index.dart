@@ -1,0 +1,12 @@
+export 'package:proyecto_pam/pages/principal.dart';
+export 'package:proyecto_pam/pages/home.dart';
+export 'package:proyecto_pam/pages/registrar.dart';
+export 'package:proyecto_pam/pages/ayuda.dart';
+export 'package:proyecto_pam/pages/direccion.dart';
+export 'package:proyecto_pam/pages/idioma.dart';
+export 'package:proyecto_pam/pages/pedidos.dart';
+export 'package:proyecto_pam/pages/perfil.dart';
+export 'package:proyecto_pam/pages/pago.dart';
+export 'package:proyecto_pam/pages/carrito.dart';
+export 'package:proyecto_pam/custom_ui/product_card.dart';
+export 'package:proyecto_pam/model/product.dart';
